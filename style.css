@@ -3,8 +3,8 @@
 :root{
     --branco: rgb(233, 34, 127);
     --cor-de-fundo: #e63bad9c;
-    --fundo-senha: #ff059f;
-    --fundo-texto: #e22dbb67;
+    --fundo-senha: #ff059f50;
+    --fundo-texto: #f8f8f867;
     --borda: #e04cc0;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
